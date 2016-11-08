@@ -1,0 +1,1171 @@
+14741 14741
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What kind of food would you like?', 'What kind of food would you like?', 'You are looking for a austrian restaurant right?', "I'm sorry but there is no restaurant serving austrian food", "I'm sorry but there is no restaurant serving austrian food", 'taj tandoori is a nice place in the south of town serving tasty indian food', 'The phone number of taj tandoori is 01223 412299 .']
+
+['im looking for a restaurant in the south part of town that serves', 'austrian', 'austrian', 'yes', 'is there a restaurant in the south part of town that serves indian food', 'indian food', 'could i get their phone number', 'thank you good bye']
+
+[5 2 2 7 1 1 8 7]
+[6 1 1 1 6 1 4 3]
+5 6 2 1 2 1 7 1 1 6 1 1 8 4 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'bedouin serves african food', 'Sure , bedouin is on 100 Mill Road City Centre', 'The phone number of bedouin is 01223 367660 .', 'The post code of bedouin is C.B 1, 2 B.D']
+
+['im looking for a restaurant that serves african food', 'can i have the address', 'and the phone number', 'and what is the post code', 'thank you good bye']
+
+[5 7 0 7 7]
+[0 2 4 5 3]
+5 0 7 2 0 4 7 5 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What kind of food would you like?', 'You are looking for a restaurant serving any kind of food right?', 'thanh binh is a nice place in the west of town and the prices are cheap', 'Sure , thanh binh is on 17 Magdalene Street City Centre']
+
+['im looking for a cheap restaurant in the west part of town', 'doesnt matter', 'yes', 'can i have the address', 'thank you good bye']
+
+[5 2 2 8 0]
+[6 9 1 2 3]
+5 6 2 9 2 1 8 2 0 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What kind of food would you like?', 'yu garden is a nice place in the east of town and the prices are expensive', 'grafton hotel restaurant is a nice place in the east of town and the prices are expensive', 'The phone number of grafton hotel restaurant is 01223 241387 .', 'grafton hotel restaurant is a great restaurant', 'grafton hotel restaurant is a great restaurant', 'grafton hotel restaurant serves british food']
+
+['im looking for an expensive restaurant in the east part of town', 'it doesnt matter', 'um', 'can i get a phone number', 'what kind of food do they serve', 'what kind of food do they have', 'what kind of food do they serve', 'thank you goodbye']
+
+[5 2 8 8 7 7 7 7]
+[6 9 1 4 1 1 1 3]
+5 6 2 9 8 1 8 4 7 1 7 1 7 1 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', "I'm sorry but there is no restaurant serving traditional food", "I'm sorry but there is no restaurant serving traditional food", 'curry prince is a nice place in the east of town', 'The phone number of curry prince is 01223 566388 and its postcode is C.B 5, 8 J.J .']
+
+['im looking for a restaurant in the east part of town that serves traditional food', 'how about chinese food', 'what about chinese', 'can i have the address phone number and post code', 'you good bye']
+
+[5 1 1 8 7]
+[6 7 7 2 3]
+5 6 1 7 1 7 8 2 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What kind of food would you like?', 'sitar tandoori is a nice place in the east of town and the prices are expensive', 'yu garden is a nice place in the east of town and the prices are expensive', 'Sure , yu garden is on 529 Newmarket Road Fen Ditton', 'The phone number of yu garden is 01223 248882 .']
+
+['an expensive restaurant in the east part of town', 'expensive food', 'how about a different restaurant', 'can i get their address', 'what is their phone number', 'okay thank you good bye']
+
+[5 2 8 8 0 7]
+[6 1 7 1 4 3]
+5 6 2 1 8 7 8 1 0 4 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What kind of food would you like?', 'thanh binh is a nice place in the west of town and the prices are cheap', 'la margherita is a nice place in the west of town and the prices are cheap', 'Sure , la margherita is on 15 Magdalene Street City Centre']
+
+['hello im looking for a cheap restaurant in the west part of town', 'i dont care', 'is there anything else', 'what is la margheritas address', 'thank you good bye']
+
+[5 2 8 8 0]
+[6 1 1 5 3]
+5 6 2 1 8 1 8 5 0 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'What part of town do you have in mind?', 'What kind of food would you like?', 'the gandhi is in the cheap price range', 'the gandhi is a great restaurant', 'the gandhi serves indian food', 'rice house is in the cheap price range', 'rice house is a great restaurant', 'rice house is a great restaurant', 'rice house is a great restaurant', 'ask is in the cheap price range', 'ask serves italian food', 'Sure , ask is on 12 Bridge Street City Centre', 'The phone number of ask is 01223 364917 .', 'ask serves italian food']
+
+['hello im looking for a cheap', 'unintelligible restaurant', 'i dont care', 'unintelligible', 'do they serve unintelligible food', 'what kind of food do they serve', 'how about unintelligible', 'do they serve unintelligible food', 'what do they serve', 'what does rice house', 'serve', 'what kind of food do they serve', 'okay what is their address', 'what is their phone number', 'and what kind of food do they serve', 'thank you good bye']
+
+[5 9 9 2 6 7 7 6 7 7 7 6 7 0 7 7]
+[0 8 1 1 1 1 7 1 1 1 1 1 5 4 1 3]
+5 0 9 8 9 1 2 1 6 1 7 1 7 7 6 1 7 1 7 1 7 1 6 1 7 5 0 4 7 1 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What kind of food would you like?', 'golden wok is a nice place in the north of town and the prices are moderate', 'meghna is a nice place in the north of town and the prices are moderate', 'The phone number of meghna is 01223 727410 .', 'The post code of meghna is C.B 4, 3 L.F']
+
+['im looking for moderately priced restaurant in the north part', 'i do not care', 'is there anything else', 'what is their phone number', 'what is their post code', 'thank you good bye']
+
+[5 2 8 8 7 7]
+[0 1 1 4 5 3]
+5 0 2 1 8 1 8 4 7 5 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', "Sorry, I can't hear you", 'What kind of food would you like?', 'What kind of food would you like?', 'Would you like something in the cheap , moderate , or expensive price range?', 'frankie and bennys is a nice place in the south of town and the prices are expensive', 'The phone number of frankie and bennys is 01223 412430 .', 'Sure , frankie and bennys is on Cambridge Leisure Park Clifton Way Cherry Hinton']
+
+['uh expensive restaurant in the south', 'yes', 'i dont care', 'dont care', 'expensive', 'what is the address and phone number', 'address', 'thank you good bye']
+
+[5 7 2 2 3 8 7 0]
+[8 1 1 1 1 4 1 3]
+5 8 7 1 2 1 2 1 3 1 8 4 7 1 0 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'What kind of food would you like?', 'What kind of food would you like?', 'What kind of food would you like?', 'You are looking for a restaurant serving any kind of food right?', 'Would you like something in the cheap , moderate , or expensive price range?', 'Would you like something in the cheap , moderate , or expensive price range?', 'Can I help you with anything else?', "I'm sorry but there is no restaurant serving belgian food", 'little seoul serves korean food', 'little seoul is a great restaurant', 'little seoul is a great restaurant', 'Sure , little seoul is on 108 Regent Street City Centre', 'little seoul is in the expensive price range']
+
+['noise', 'dont care', 'belgium', 'belgium', 'belgium', 'no i want belgium food', 'dont care', 'dont care', 'belgium food', 'korean food', 'what is the address', 'address', 'what is the address', 'price range', 'thank you good bye']
+
+[5 9 2 2 2 2 3 3 7 1 7 7 7 0 6]
+[1 1 1 1 1 1 1 1 1 1 5 1 5 1 3]
+5 1 9 1 2 1 2 1 2 1 2 1 3 1 3 1 7 1 1 1 7 5 7 1 7 5 0 1 6 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What kind of food would you like?', 'nandos city centre is a nice place in the centre of town serving tasty portuguese food', 'Sure , nandos city centre is on 33-34 Saint Andrews Street']
+
+['restaurant in the south part of town', 'portuguese', 'what is the address', 'thank you good bye']
+
+[5 2 8 0]
+[6 1 5 3]
+5 6 2 1 8 5 0 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', "I'm sorry but there is no restaurant serving scandinavian food", 'You are looking for a asian oriental restaurant right?', 'dojo noodle bar serves asian oriental food in the cheap price range', 'The phone number of dojo noodle bar is 01223 363471 .', 'Sure , dojo noodle bar is on 40210 Millers Yard City Centre']
+
+['cheap restaurant serving scandinavian food', 'cheap restaurant serving asian oriental', 'yes', 'what is the phone number', 'what is the address', 'thank you good bye']
+
+[5 1 7 6 7 0]
+[8 8 1 4 5 3]
+5 8 1 8 7 1 6 4 7 5 0 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What kind of food would you like?', 'travellers rest is a nice place in the west of town', 'travellers rest serves british food', 'sala thong is a nice place in the west of town', 'la margherita is a nice place in the west of town', 'maharajah tandoori restaurant is a nice place in the west of town', "I'm sorry but there is no restaurant serving moroccan food", 'travellers rest is a nice place in the west of town', 'maharajah tandoori restaurant is a nice place in the west of town serving tasty indian food', 'The phone number of maharajah tandoori restaurant is 01223 358399 and it is on 41518 Castle Street City Centre .']
+
+['restaurant in the west part of town serving moroccan food', 'moroccan', 'what type of food', 'how about moroccan food', 'how about moroccan food', 'how about moroccan food', 'moroccan food', 'how about indian food', 'how about indian food', 'what is the address and phone number', 'thank you good bye']
+
+[5 2 8 7 8 8 8 1 8 8 7]
+[6 1 1 7 7 7 1 7 7 4 3]
+5 6 2 1 8 1 7 7 8 7 8 7 8 1 1 7 8 7 8 4 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', "I'm sorry but there is no restaurant serving welsh food", "I'm sorry but there is no restaurant serving welsh food", 'maharajah tandoori restaurant is a nice place in the west of town serving tasty indian food', 'Sure , maharajah tandoori restaurant is on 41518 Castle Street City Centre', 'The phone number of maharajah tandoori restaurant is 01223 358399 .']
+
+['im looking for a welsh restaurant in the west part of town', 'how about indian', 'how about indian food', 'whats the address', 'whats the phone number', 'thank you good bye']
+
+[5 1 1 8 0 7]
+[6 7 7 5 4 3]
+5 6 1 7 1 7 8 5 0 4 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'yippee noodle bar is in the moderate price range', 'yippee noodle bar is a great restaurant', 'yippee noodle bar serves asian oriental food', 'anatolia serves turkish food in the moderate price range', 'Sure , anatolia is on 30 Bridge Street City Centre']
+
+['im looking for a moderately priced restaurant that serves canapes', 'does it serve canapes', 'what kind of food does it serve', 'how about a turkish restaurant', 'whats the address', 'thank you good bye']
+
+[5 6 7 7 6 0]
+[0 1 1 7 5 3]
+5 0 6 1 7 1 7 7 6 5 0 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What kind of food would you like?', 'saint johns chop house is a nice place in the west of town and the prices are moderate', 'Sure , saint johns chop house is on 21 - 24 Northampton Street']
+
+['im looking for a moderately priced restaurant in the west part of town', 'i dont care', 'whats the address', 'thank you goodbye']
+
+[5 2 8 0]
+[6 1 5 3]
+5 6 2 1 8 5 0 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'chiquito restaurant bar serves mexican food', 'Sure , chiquito restaurant bar is on 2G Cambridge Leisure Park Cherry Hinton Road Cherry Hinton']
+
+['mexican food', 'and the address', 'thank you good bye']
+
+[5 7 0]
+[1 5 3]
+5 1 7 5 0 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'What kind of food would you like?', "I'm sorry but there is no restaurant serving christmas food", 'da vinci pizzeria is a nice place in the north of town', 'da vinci pizzeria is a great restaurant', 'Sorry would you like asian oriental or christmas food?', 'Sorry would you like asian oriental or christmas food?', 'saigon city is a nice place in the north of town serving tasty asian oriental food', 'Sure , saigon city is on 169 High Street Chesterton Chesterton', 'The phone number of saigon city is 01223 356555 .']
+
+['hi im looking for a restaurant in the', 'north', 'christmas food', 'how about asian oriental type of food', 'is there a restaurant', 'im looking for a restaurant', 'in the north part of town', 'asian oriental', 'what is the address', 'what is the phone number', 'thank you good bye']
+
+[5 9 2 1 8 7 2 2 8 0 7]
+[0 1 1 7 8 0 6 1 5 4 3]
+5 0 9 1 2 1 1 7 8 8 7 0 2 6 2 1 8 5 0 4 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'What kind of food would you like?', 'Would you like something in the cheap , moderate , or expensive price range?', 'Can I help you with anything else?', 'Sorry I am a bit confused ; please tell me again what you are looking for .', 'Can I help you with anything else?', 'Can I help you with anything else?', 'Sorry I am a bit confused ; please tell me again what you are looking for .', "I'm sorry but there is no restaurant serving scandinavian food", "I'm sorry but there is no restaurant serving scandinavian food", 'Ok , a restaurant in any part of town is that right?', 'You are looking for a scandinavian restaurant right?', 'Let me confirm , You are looking for a restaurant and you dont care about the price range right?', "I'm sorry but there is no restaurant serving scandinavian food", "I'm sorry but there is no restaurant serving scandinavian food", 'Ok , a restaurant in any part of town is that right?', 'Sorry would you like scandinavian or thai food?', 'Sorry would you like scandinavian or thai food?', 'Sorry would you like scandinavian or thai food?', 'Sorry would you like something in the cheap price range or you dont care', 'bangkok city serves thai food', 'Sure , bangkok city is on 24 Green Street City Centre', 'The phone number of bangkok city is 01223 354382 .']
+
+['hi im looking for a place that serves scandinavian food', 'dont care', 'scandinavian', 'dont care', 'no', 'a restaurant that serves scandinavian food', 'restaurant with scandin', 'no', 'scandinavian food', 'how bout thai', 'how bout thai food', 'ye', 'no', 'correct', 'how bout thai', 'how bout thai food', 'yes', 'noise', 'noise', 'thai food', 'dont care', 'what is the addre', 'what is the phone number', 'thank you goodbye']
+
+[5 9 2 3 7 7 7 7 7 1 1 7 7 6 1 1 7 2 2 2 3 7 0 7]
+[0 1 1 1 1 8 8 1 1 1 7 1 1 1 1 7 1 1 1 1 1 5 4 3]
+5 0 9 1 2 1 3 1 7 1 7 8 7 8 7 1 7 1 1 1 1 7 7 1 7 1 6 1 1 1 1 7 7 1 2 1 2 1 2 1 3 1 7 5 0 4 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'What kind of food would you like?', 'royal standard is a nice place in the east of town and the prices are expensive', 'The phone number of royal standard is 01223 247877 .', 'sitar tandoori is a nice place in the east of town and the prices are expensive']
+
+['im looking for an expensive restaurant', 'east part', 'dont care', 'what is the phone number', 'thank you', 'thank you good bye']
+
+[5 9 2 8 7 8]
+[0 1 1 4 3 3]
+5 0 9 1 2 1 8 4 7 3 8 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', "I'm sorry but there is no restaurant serving barbeque food", 'pizza hut fen ditton is a nice place in the east of town', 'pipasha restaurant is a nice place in the east of town serving tasty indian food', 'The phone number of pipasha restaurant is 01223 577786 and it is on Newmarket Road Fen Ditton .']
+
+['im looking for a barbecue restaurant in the east part of town', 'how about an indian restaurant', 'how about an indian type food restaurant', 'whats the address and phone number', 'thank you good bye']
+
+[5 1 8 8 7]
+[6 7 7 4 3]
+5 6 1 7 8 7 8 4 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', "I'm sorry but there is no restaurant serving polynesian food", 'pizza hut cherry hinton is a nice place in the south of town', 'nandos is a nice place in the south of town serving tasty portuguese food', 'The phone number of nandos is 01223 327908 .', 'Sure , nandos is on Cambridge Leisure Park Clifton Way']
+
+['i want a polynesian restaurant in the west part of town', 'how about portuguese', 'how about one that serves portuguese food', 'whats the phone number and address', 'whats the address', 'thank you good bye']
+
+[5 1 8 8 7 0]
+[6 7 7 4 5 3]
+5 6 1 7 8 7 8 4 7 5 0 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'the missing sock is a nice place in the east of town and the prices are cheap', 'The phone number of the missing sock is 01223 812660 and it is on Finders Corner Newmarket Road .']
+
+['i want a cheap restaurant in the east part of town', 'whats the address and phone number', 'thank you good bye']
+
+[5 8 7]
+[6 4 3]
+5 6 8 4 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', "I'm sorry but there is no restaurant serving barbeque food", "I'm sorry but there is no restaurant serving barbeque food", 'You are looking for a vietnamese restaurant right?', 'thanh binh serves vietnamese food', 'Sure , thanh binh is on 17 Magdalene Street City Centre']
+
+['id like a barbecue restaurant', 'how about vietnamese', 'how about vietnamese food', 'yes', 'what the address', 'thank you good bye']
+
+[5 1 1 7 7 0]
+[8 7 7 1 5 3]
+5 8 1 7 1 7 7 1 7 5 0 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', "I'm sorry but there is no restaurant serving russian food", 'Sorry would you like russian or korean food?', 'little seoul serves korean food', 'Sure , little seoul is on 108 Regent Street City Centre', 'little seoul is in the expensive price range']
+
+['i want a russian restaurant', 'how about a korean restaurant', 'korean', 'whats the address', 'whats the price range', 'thank you good bye']
+
+[5 1 2 7 0 6]
+[8 7 1 5 5 3]
+5 8 1 7 2 1 7 5 0 5 6 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'You are looking for a irish restaurant right?', "I'm sorry but there is no restaurant serving irish food", "I'm sorry but there is no restaurant serving irish food", 'What part of town do you have in mind?', 'don pasquale pizzeria serves italian food in the expensive price range', 'The phone number of don pasquale pizzeria is 01223 350106 and it is on 12 Market Hill City Centre .', 'don pasquale pizzeria is a nice place in the centre of town']
+
+['i want an expensive irish restaurant', 'yes', 'how about', 'an expensive italian restaurant', 'dont care', 'whats the address phone number and area', 'what part of town', 'thank you good bye']
+
+[5 7 1 1 9 6 7 8]
+[8 1 7 8 1 4 6 3]
+5 8 7 1 1 7 1 8 9 1 6 4 7 6 8 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', "I'm sorry but there is no restaurant serving kosher food", "I'm sorry but there is no restaurant serving kosher food", 'golden house serves chinese food in the cheap price range', 'The phone number of golden house is 01842 753771 and it is on 12 Lensfield Road City Centre .']
+
+['im looking for a cheap restaurant serving kosher food', 'what about chinese food', 'how about chinese food', 'what is the address and phone number', 'thank you goodbye']
+
+[5 1 1 6 7]
+[0 7 7 4 3]
+5 0 1 7 1 7 6 4 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'What kind of food would you like?', 'What kind of food would you like?', "I'm sorry but there is no restaurant serving jamaican food", "I'm sorry but there is no restaurant serving jamaican food", 'You are looking for a thai restaurant right?', 'sala thong serves thai food', 'The phone number of sala thong is 01223 323178 .', 'sala thong is in the expensive price range']
+
+['im looking for a restaurant in any area', 'any area', 'jamaican', 'jamaican food', 'what about thai food', 'what about thai food', 'yes', 'what is the phone number', 'what is the price range', 'thank you good bye']
+
+[5 9 2 2 1 1 7 7 7 6]
+[0 1 1 1 7 7 1 4 5 3]
+5 0 9 1 2 1 2 1 1 7 1 7 7 1 7 4 7 5 6 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What kind of food would you like?', 'meghna is a nice place in the north of town and the prices are moderate', 'The phone number of meghna is 01223 727410 .', 'Sure , meghna is on 205 Victoria Road Chesterton']
+
+['im looking for a moderately priced restaurant in the north', 'i dont care', 'whats the phone number and address', 'whats the address', 'thank you good bye']
+
+[5 2 8 7 0]
+[0 1 4 5 3]
+5 0 2 1 8 4 7 5 0 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'golden house is in the cheap price range', 'The phone number of golden house is 01842 753771 .', 'Sure , golden house is on 12 Lensfield Road City Centre']
+
+['i want to find a cheap restaurant in the south part of town', 'south', 'okay could you give me the phone number', 'okay and what about the address', 'okay thank you and good bye']
+
+[5 9 6 7 0]
+[6 1 4 5 3]
+5 6 9 1 6 4 7 5 0 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', "I'm sorry but there is no restaurant serving cuban food", "I'm sorry but there is no restaurant serving cuban food", "I'm sorry but there is no restaurant serving cuban food", 'Let me confirm , You are looking for a restaurant in the cheap price range right?', 'What part of town do you have in mind?', 'rice house serves chinese food in the cheap price range', 'Sure , rice house is on 88 Mill Road City Centre', 'The phone number of rice house is 01223 367755 .']
+
+['im looking for a cheap restaurant that serves cuban food', 'is there on serving chineese', 'what about chineese', 'what about chinese food', 'yes do you have one with chinese', 'it doesnt matter', 'okay i need the address', 'and the phone number', 'thank you goodbye']
+
+[5 1 1 1 6 9 6 0 7]
+[0 1 7 7 1 9 5 4 3]
+5 0 1 1 1 7 1 7 6 1 9 9 6 5 0 4 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What kind of food would you like?', 'da vinci pizzeria is a nice place in the north of town and the prices are cheap', 'Sure , da vinci pizzeria is on 20 Milton Road Chesterton', 'The phone number of da vinci pizzeria is 01223 351707 .']
+
+['im looking for a cheap restaurant in the north part of town', 'any', 'kind i have the address', 'phone number', 'thank you good bye']
+
+[5 2 8 0 7]
+[6 1 2 4 3]
+5 6 2 1 8 2 0 4 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'What kind of food would you like?', 'cotto is in the moderate price range', 'cotto serves british food', 'restaurant one seven is in the moderate price range', 'restaurant one seven serves british food', 'restaurant one seven is a great restaurant', 'The phone number of restaurant one seven is 01223 337766 .']
+
+['im looking for a moderately priced restaurant that serves uh', 'i dont care', 'persian', 'what kind of food is it', 'what about persian food', 'what type of food', 'phone number', 'phone number', 'thank you good bye']
+
+[5 9 2 6 7 6 7 7 7]
+[0 1 1 1 7 1 4 4 3]
+5 0 9 1 2 1 6 1 7 7 6 1 7 4 7 4 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', "I'm sorry but there is no restaurant serving corsica food", "I'm sorry but there is no restaurant serving corsica food", 'thanh binh serves vietnamese food', 'Sure , thanh binh is on 17 Magdalene Street City Centre', 'I am sorry but there is no other vietnamese restaurant that matches your request']
+
+['im looking for a restaurant that serves corsica food', 'what about vietnamese', 'vietnamese food', 'address', 'hi', 'thank you good bye']
+
+[5 1 1 7 0 1]
+[0 7 1 1 1 3]
+5 0 1 7 1 1 7 1 0 1 1 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'Sorry would you like something in the east or in the north', 'Sorry would you like something in the east or in the north', 'Did you say you are looking for a restaurant in the east of town?', 'Did you say you are looking for a restaurant in the east of town?', 'Did you say you are looking for a restaurant in the east of town?', "I'm sorry but there is no restaurant serving english food", "I'm sorry but there is no restaurant serving english food", 'Did you say you are looking for a restaurant in the east of town?', "I'm sorry but there is no spanish restaurant in the east of town", 'Did you say you are looking for a restaurant in the east of town?', 'Sorry would you like the east of town or you dont care', 'Would you like something in the cheap , moderate , or expensive price range?', 'la raza serves spanish food', 'Sure , la raza is on 4 - 6 Rose Crescent', 'la raza is a great restaurant', 'la raza is in the cheap price range']
+
+['um', 'unintelligible', 'unintelligible', 'english please', 'no im looking for a unintelligible that serves english food', 'no english food', 'spanish food', 'what about spanish food', 'spanish food', 'no', 'any area', 'no any area', 'i dont care', 'i dont care', 'can i have the address', 'price range', 'price range', 'thank you goodbye']
+
+[5 9 3 3 9 9 9 1 1 9 1 9 2 3 7 0 7 6]
+[1 1 1 1 0 1 1 7 1 1 1 1 1 1 2 1 1 3]
+5 1 9 1 3 1 3 1 9 0 9 1 9 1 1 7 1 1 9 1 1 1 9 1 2 1 3 1 7 2 0 1 7 1 6 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', "I'm sorry but there is no restaurant serving polynesian food", 'Sorry would you like polynesian or vietnamese food?', 'thanh binh serves vietnamese food', 'Sure , thanh binh is on 17 Magdalene Street City Centre', 'thanh binh is a great restaurant']
+
+['im looking for polynesian food', 'how about vietnamese', 'vietnamese', 'can i have the address', 'can i okay thank you', 'thank you good bye']
+
+[5 1 2 7 0 7]
+[0 7 1 2 3 3]
+5 0 1 7 2 1 7 2 0 3 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What kind of food would you like?', 'golden wok is a nice place in the north of town and the prices are moderate', 'golden wok is a great restaurant', 'meghna is a nice place in the north of town and the prices are moderate', 'The phone number of meghna is 01223 727410 .']
+
+['im looking for a moderately priced restaurant in the north part of town', 'i dont care', 'can i get a', 'is there anything else', 'can i have the phone number', 'thank you good bye']
+
+[5 2 8 7 8 7]
+[6 1 1 1 2 3]
+5 6 2 1 8 1 7 1 8 2 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What kind of food would you like?', 'frankie and bennys is a nice place in the south of town and the prices are expensive', 'the good luck chinese food takeaway is a nice place in the south of town and the prices are expensive', 'The phone number of the good luck chinese food takeaway is 01223 244149 .', 'Sure , the good luck chinese food takeaway is on 82 Cherry Hinton Road Cherry Hinton', 'The post code of the good luck chinese food takeaway is C.B 1, 7 A.G']
+
+['im looking for an expensive restaurant in the south part of town', 'i dont care', 'is there anything else', 'can i have the phone number', 'address', 'post code', 'thank you good bye']
+
+[5 2 8 8 7 0 7]
+[6 1 1 2 1 1 3]
+5 6 2 1 8 1 8 2 7 1 0 1 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', "I'm sorry but there is no restaurant serving swedish food", 'Did you say you are looking for a restaurant in the east of town?', 'yu garden is a nice place in the east of town serving tasty chinese food', 'The phone number of yu garden is 01223 248882 and it is on 529 Newmarket Road Fen Ditton .', 'The post code of yu garden is C.B 5, 8 P.A']
+
+['east part of town serving swedish food', 'chinese food', 'yes', 'could i have the address phone number and post code', 'what is the post code', 'thank you good bye']
+
+[5 1 9 8 7 7]
+[6 1 1 2 5 3]
+5 6 1 1 9 1 8 2 7 5 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'Ok , a restaurant in any part of town is that right?', 'Ok , a restaurant in any part of town is that right?', 'You are looking for a english restaurant right?', "I'm sorry but there is no restaurant serving english food", 'bedouin is in the expensive price range', 'Sure , bedouin is on 100 Mill Road City Centre', 'bedouin serves african food', 'kymmoy serves asian oriental food in the expensive price range', 'The phone number of kymmoy is 01223 311911 .', 'kymmoy is a nice place in the centre of town']
+
+['sil', 'doesnt matter', 'expensive', 'yes danish food', 'no danish', 'danish', 'danish', 'what type of food', 'do you have any asian oriental food', 'whats the phone number', 'what area', 'thank you good bye']
+
+[5 9 7 7 7 1 6 0 7 6 7 8]
+[1 9 1 1 1 1 1 1 1 4 1 3]
+5 1 9 9 7 1 7 1 7 1 1 1 6 1 0 1 7 1 6 4 7 1 8 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What kind of food would you like?', 'frankie and bennys is a nice place in the south of town and the prices are expensive', 'Sure , frankie and bennys is on Cambridge Leisure Park Clifton Way Cherry Hinton', 'The phone number of frankie and bennys is 01223 412430 .', 'The post code of frankie and bennys is C.B 1, 7 D.Y']
+
+['expensive restaurant south part of town', 'i dont care', 'could i have the address please', 'could i have the phone number', 'what is the post code', 'thank you good bye']
+
+[5 2 8 0 7 7]
+[6 1 2 4 5 3]
+5 6 2 1 8 2 0 4 7 5 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'What part of town do you have in mind?', 'What part of town do you have in mind?', 'What kind of food would you like?', "I'm sorry but there is no restaurant serving cheap lebanese food", 'j restaurant serves asian oriental food in the cheap price range', 'The phone number of j restaurant is 01223 307581 .', 'Sure , j restaurant is on 86 Regent Street City Centre']
+
+['sil', 'a cheap', 'a cheap restaurant', 'i dont care', 'lebanese', 'asian oriental', 'can i have the phone number', 'can i get the address', 'thank you good bye']
+
+[5 9 9 9 2 1 6 7 0]
+[1 1 8 1 1 1 2 2 3]
+5 1 9 1 9 8 9 1 2 1 1 1 6 2 7 2 0 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', "I'm sorry but there is no restaurant serving venetian food", 'Sorry would you like venetian or asian oriental food?', 'What part of town do you have in mind?', 'Would you like something in the cheap , moderate , or expensive price range?', 'j restaurant serves asian oriental food in the cheap price range', 'Sorry I am a bit confused ; please tell me again what you are looking for .', 'j restaurant is a great restaurant', 'The phone number of j restaurant is 01223 307581 and it is on 86 Regent Street City Centre .']
+
+['venetian food', 'asian oriental food', 'asian oriental', 'any area', 'food', 'cough', 'may i', 'may i have the phone number and address', 'thank you good bye']
+
+[5 1 2 9 3 6 7 7 7]
+[1 1 1 1 1 1 1 2 3]
+5 1 1 1 2 1 9 1 3 1 6 1 7 1 7 2 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'peking restaurant is a nice place in the south of town', 'The phone number of peking restaurant is 01223 354755 .', 'The post code of peking restaurant is C.B 2, 8 N.X']
+
+['danish food in the south part of town', 'may i have a phone number and postcode', 'may i have the postcode', 'thank you goodbye']
+
+[5 8 7 7]
+[6 4 2 3]
+5 6 8 4 7 2 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What kind of food would you like?', 'golden wok is a nice place in the north of town and the prices are moderate', 'Sure , golden wok is on 191 Histon Road Chesterton', 'The phone number of golden wok is 01223 350688 .']
+
+['moderately priced restaurant in the north part of town', 'any', 'may i get the address and phone number', 'may i get the phone number', 'thank you goodbye']
+
+[5 2 8 0 7]
+[6 1 2 4 3]
+5 6 2 1 8 2 0 4 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'What kind of food would you like?', 'sala thong is a nice place in the west of town serving tasty thai food', 'Sure , sala thong is on 35 Newnham Road Newnham', 'The phone number of sala thong is 01223 323178 .', 'The post code of sala thong is C.B 3, 9 E.Y', 'sala thong is a great restaurant']
+
+['unintelligible', 'im looking for a restaurant in the west part of town and it sh', 'thai food', 'uh whats the address', 'and the phone number', 'and the post code', 'thank you', 'good bye']
+
+[5 9 2 8 0 7 7 7]
+[1 6 1 5 4 5 3 3]
+5 1 9 6 2 1 8 5 0 4 7 5 7 3 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What kind of food would you like?', 'the lucky star is a nice place in the south of town and the prices are cheap', 'The phone number of the lucky star is 01223 244277 .']
+
+['im looking for a cheap restaurant on the north side of town', 'unintelligible', 'whats the phone number', 'thank you good bye']
+
+[5 2 8 7]
+[6 1 4 3]
+5 6 2 1 8 4 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', "I'm sorry but there is no restaurant serving crossover food", "I'm sorry but there is no restaurant serving crossover food", 'You are looking for a italian restaurant right?', 'Would you like something in the cheap , moderate , or expensive price range?', 'Sorry would you like something in the cheap price range or you dont care', 'prezzo is a nice place in the west of town serving tasty italian food', 'The phone number of prezzo is 01799 521260 .']
+
+['yeah can i um', 'a restaurant in the west part of town should serve crossover food', 'um how about italian food', 'is there a restaurant serving italian food', 'yes', 'doesnt matter', 'i dont care', 'whats the phone number', 'thank you good bye']
+
+[5 9 1 1 7 3 3 8 7]
+[1 6 7 8 1 9 1 4 3]
+5 1 9 6 1 7 1 8 7 1 3 9 3 1 8 4 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'What kind of food would you like?', "I'm sorry but there is no restaurant serving caribbean food", "I'm sorry but there is no restaurant serving caribbean food", 'Would you like something in the cheap , moderate , or expensive price range?', 'shiraz restaurant serves mediterranean food', 'The phone number of shiraz restaurant is 01223 307581 and its postcode is C.B 2, 1 D.P .', 'Sure , shiraz restaurant is on 84 Regent Street City Centre']
+
+['noise', 'any area', 'caribbean food', 'is there mediterranean food', 'i want mediterranean food', 'i dont care', 'id like to know the address phone number and post code', 'and the address', 'thank you good bye']
+
+[5 9 2 1 1 3 7 7 0]
+[1 1 1 1 1 1 4 5 3]
+5 1 9 1 2 1 1 1 1 1 3 1 7 4 7 5 0 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'Ok , a restaurant in any part of town is that right?', "I'm sorry but there is no restaurant serving corsica food", "I'm sorry but there is no restaurant serving corsica food", 'the copper kettle is in the moderate price range', 'the copper kettle serves british food', 'curry prince serves indian food in the moderate price range', 'The phone number of curry prince is 01223 566388 .', 'Sure , curry prince is on 451 Newmarket Road Fen Ditton']
+
+['uh im looking for a moderately priced restaurant serving', 'it doesnt matter', 'yes that serves corsica food', 'okay how about a moderately prices restaurant that serves', 'what about indian food', 'what kind of food', 'im looking for indian food', 'whats the address and phone number', 'and the address', 'thank you good bye']
+
+[5 9 7 1 1 6 7 6 7 0]
+[0 9 1 8 7 1 0 4 5 3]
+5 0 9 9 7 1 1 8 1 7 6 1 7 0 6 4 7 5 0 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What kind of food would you like?', 'pipasha restaurant is a nice place in the east of town and the prices are expensive', 'Sure , pipasha restaurant is on Newmarket Road Fen Ditton']
+
+['for an expensive restaurant in the east part of town', 'i dont care', 'the address', 'thank you good bye']
+
+[5 2 8 0]
+[6 1 5 3]
+5 6 2 1 8 5 0 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'What kind of food would you like?', "I'm sorry but there is no mediterranean restaurant in the north of town", "I'm sorry but there is no mediterranean restaurant in the north of town", 'shiraz restaurant serves mediterranean food', 'Sure , shiraz restaurant is on 84 Regent Street City Centre', 'The post code of shiraz restaurant is C.B 2, 1 D.P', 'The phone number of shiraz restaurant is 01223 307581 .']
+
+['uh yes i want to find a restaurant in the north part of town that serves', 'uh the north', 'mediterranean food', 'okay how about any area', 'okay how about any part of town', 'okay and uh can i get the address', 'okay and whats the post code', 'okay and uh the phone number', 'okay thank you and good bye']
+
+[5 9 2 1 1 7 0 7 7]
+[6 5 1 7 7 2 5 4 3]
+5 6 9 5 2 1 1 7 1 7 7 2 0 5 7 4 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', "I'm sorry but there is no restaurant serving welsh food", "I'm sorry but there is no restaurant serving scottish food", 'You are looking for a scottish restaurant right?', 'What part of town do you have in mind?', 'fitzbillies restaurant serves british food in the expensive price range', 'The phone number of fitzbillies restaurant is 01223 352500 .']
+
+['ah can i find a unintelligible restaurant serving scotch food', 'ah scottish food', 'okay uh how bout british food', 'uh no im loo ah change it to british', 'ah how bout an expensive one', 'kay can i get their phone number please', 'okay ah i think thatll do it thank you and goodbye']
+
+[5 1 1 7 9 6 7]
+[8 1 7 1 1 4 3]
+5 8 1 1 1 7 7 1 9 1 6 4 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'ask is a nice place in the centre of town serving tasty italian food', 'Sure , ask is on 12 Bridge Street City Centre', 'The phone number of ask is 01223 364917 .']
+
+['uh yes can i find an expensive restaurant that serves italian food', 'center', 'okay and can i get their address', 'and the phone number', 'okay uh thank you and good bye']
+
+[5 9 8 0 7]
+[8 1 2 4 3]
+5 8 9 1 8 2 0 4 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What kind of food would you like?', 'chiquito restaurant bar is a nice place in the south of town and the prices are expensive', 'The phone number of chiquito restaurant bar is 01223 400170 .', 'chiquito restaurant bar is a great restaurant', 'The post code of chiquito restaurant bar is C.B 1, 7 D.Y', 'Sure , chiquito restaurant bar is on 2G Cambridge Leisure Park Cherry Hinton Road Cherry Hinton']
+
+['ah yes can i get ah expensive restaurant in the south part of town', 'ah it doesnt matter', 'kay can i get the phone number', 'kay and ah where is it located', 'okay and ah wheres it located', 'okay and whats the addre', 'okay thank you and goodbye']
+
+[5 2 8 7 7 7 0]
+[6 9 4 1 1 5 3]
+5 6 2 9 8 4 7 1 7 1 7 5 0 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'Did you say you are looking for a restaurant in the centre of town?', 'Did you say you are looking for a restaurant in the centre of town?', 'cote is a nice place in the centre of town serving tasty french food', 'I am sorry but there is no other french restaurant in the centre of town', 'cote is a great restaurant', 'cote is in the expensive price range', 'cote is a great restaurant', 'Sure , cote is on Bridge Street City Centre', 'I am sorry but there is no other french restaurant in the centre of town', 'restaurant two two serves french food', 'Did you say you are looking for a restaurant in the centre of town?', 'Sure , restaurant two two is on 22 Chesterton Road Chesterton', 'restaurant two two is a great restaurant']
+
+['ah yes can i get a restaurant that serves french food', 'ah centre', 'ah yes that serves french food', 'yes', 'kay', 'ah whats the price ran', 'okay and ah whats the price range', 'okay and ah', 'what the addre', 'kay', 'and ah', 'kay', 'whats his addre', 'kay um', 'thank you and goodbye']
+
+[5 9 9 9 8 1 7 6 7 0 1 7 9 0 7]
+[8 1 1 1 1 5 5 1 5 1 1 1 1 1 3]
+5 8 9 1 9 1 9 1 8 1 1 5 7 5 6 1 7 5 0 1 1 1 7 1 9 1 0 1 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'Ok , a restaurant in any part of town is that right?', 'What kind of food would you like?', "I'm sorry but there is no restaurant serving persian food", "I'm sorry but there is no restaurant serving persian food", "I'm sorry but there is no restaurant serving persian food", 'Ok , a restaurant in any part of town is that right?', 'You are looking for a persian restaurant right?', 'Let me confirm , You are looking for a restaurant and you dont care about the price range right?', 'nandos city centre serves portuguese food', 'The phone number of nandos city centre is 01223 327908 .', 'Sure , nandos city centre is on 33-34 Saint Andrews Street', 'nandos city centre serves portuguese food']
+
+['ah yes im looking for persian food and i dont care about the pri', 'um it doesnt matter', 'ah yes im looking for persian food though', 'persian food', 'okay ah how bout portuguese', 'okay ah how bout portuguese food', 'okay um well how bout portuguese', 'ah yes', 'no portuguese', 'yes', 'okay and ah can i get their phone number please', 'and their address', 'okay and they serve portuguese food correct', 'okay uh thank you and goodbye']
+
+[5 9 7 2 1 1 1 7 7 6 7 7 0 7]
+[0 9 0 1 1 7 1 1 1 1 4 1 1 3]
+5 0 9 9 7 0 2 1 1 1 1 7 1 1 7 1 7 1 6 1 7 4 7 1 0 1 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'What part of town do you have in mind?', 'chiquito restaurant bar serves mexican food', 'I am sorry but there is no other mexican restaurant that matches your request', 'chiquito restaurant bar serves mexican food', 'The phone number of chiquito restaurant bar is 01223 400170 .', 'Sure , chiquito restaurant bar is on 2G Cambridge Leisure Park Cherry Hinton Road Cherry Hinton', 'chiquito restaurant bar is a great restaurant']
+
+['i want to find', 'a restaurant', 'mexican food', 'okay', 'noise taquita restaurant', 'uh whats the address and phone number', 'address', 'thank you', 'thank you good bye']
+
+[5 9 9 7 1 7 7 0 7]
+[1 8 1 1 8 4 1 3 3]
+5 1 9 8 9 1 7 1 1 8 7 4 7 1 0 3 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What kind of food would you like?', 'What kind of food would you like?', 'You are looking for a restaurant serving any kind of food right?', 'pizza hut cherry hinton is a nice place in the south of town and the prices are moderate', 'restaurant alimentum is a nice place in the south of town and the prices are moderate', 'Sure , restaurant alimentum is on 152 - 154 Hills Road', 'The phone number of restaurant alimentum is 01223 413000 .']
+
+['im looking for a restaurant in the south part of town', 'moderately priced', 'doesnt matter', 'yes', 'is there anything else', 'address', 'phone number', 'thank you good bye']
+
+[5 2 2 2 8 8 0 7]
+[6 1 9 1 1 1 4 3]
+5 6 2 1 2 9 2 1 8 1 8 1 0 4 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What kind of food would you like?', 'You are looking for a restaurant serving any kind of food right?', 'royal standard is a nice place in the east of town and the prices are expensive', 'pipasha restaurant is a nice place in the east of town and the prices are expensive', 'Sure , pipasha restaurant is on Newmarket Road Fen Ditton', 'The phone number of pipasha restaurant is 01223 577786 .']
+
+['im looking for an expensive restaurant in the east', 'it doesnt matter', 'yes', 'anything else', 'address', 'phone number', 'thank you goodbye']
+
+[5 2 2 8 8 0 7]
+[0 9 1 1 1 4 3]
+5 0 2 9 2 1 8 1 8 1 0 4 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'the missing sock is a nice place in the east of town and the prices are cheap', 'the missing sock is a great restaurant', 'The phone number of the missing sock is 01223 812660 .', 'Sure , the missing sock is on Finders Corner Newmarket Road']
+
+['cheap restaurant', 'in the east part of town', 'phone number', 'phone number', 'address', 'thank you good bye']
+
+[5 9 8 7 7 0]
+[8 6 4 4 1 3]
+5 8 9 6 8 4 7 4 7 1 0 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'What part of town do you have in mind?', 'What kind of food would you like?', "I'm sorry but there is no restaurant serving catalan food", "I'm sorry but there is no restaurant serving catalan food", "I'm sorry but there is no restaurant serving catalan food", 'Ok , a restaurant in any part of town is that right?', 'You are looking for a catalan restaurant right?', "I'm sorry but there is no restaurant serving catalan food", "I'm sorry but there is no restaurant serving catalan food", 'Would you like something in the cheap , moderate , or expensive price range?', 'the cow pizza kitchen and bar serves gastropub food', 'Sure , the cow pizza kitchen and bar is on Corn Exchange Street', 'The post code of the cow pizza kitchen and bar is C.B 2, 3 Q.F', 'The phone number of the cow pizza kitchen and bar is 01223 308871 .']
+
+['im looking for a restaurant that serves', 'catalan food', 'i dont care', 'catalan', 'can i', 'gastropub food', 'okay what about another restaurant', 'yes', 'no', 'how about gastropub food', 'can i find a restaurant with gastropub food', 'i dont care', 'address', 'post code', 'phone number', 'thank you good bye']
+
+[5 9 9 2 1 1 1 7 7 1 1 3 7 0 7 7]
+[0 1 1 1 1 1 8 1 1 7 8 1 1 1 4 3]
+5 0 9 1 9 1 2 1 1 1 1 1 1 8 7 1 7 1 1 7 1 8 3 1 7 1 0 1 7 4 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'What kind of food would you like?', 'maharajah tandoori restaurant is a nice place in the west of town serving tasty indian food', 'cocum is a nice place in the west of town serving tasty indian food', 'The phone number of cocum is 01223 366668 .', 'Sure , cocum is on 71 Castle Street City Centre']
+
+['i would like to find a restaurant', 'west', 'indian', 'is there anything else', 'and the phone number', 'and the address', 'thank you good bye']
+
+[5 9 2 8 8 7 0]
+[8 1 1 1 4 5 3]
+5 8 9 1 2 1 8 1 8 4 7 5 0 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What kind of food would you like?', 'restaurant alimentum is a nice place in the south of town and the prices are moderate', 'restaurant alimentum serves modern european food', 'Sure , restaurant alimentum is on 152 - 154 Hills Road']
+
+['im looking for a moderately priced restaurant in the south part of town', 'i dont care', 'what type of food', 'whats the address', 'thank you good bye']
+
+[5 2 8 7 0]
+[6 1 1 5 3]
+5 6 2 1 8 1 7 5 0 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What kind of food would you like?', "I'm sorry but there is no mediterranean restaurant in the west of town", 'cocum is a nice place in the west of town serving tasty indian food', 'Sure , cocum is on 71 Castle Street City Centre', 'The phone number of cocum is 01223 366668 .']
+
+['im looking for a restaurant in the west part of town', 'mediterranean', 'indian', 'whats the address', 'phone number', 'thank you good bye']
+
+[5 2 1 8 0 7]
+[6 1 1 5 4 3]
+5 6 2 1 1 1 8 5 0 4 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type .', 'What part of town do you have in mind?', 'What kind of food would you like?', "I'm sorry but there is no restaurant serving venetian food", 'Would you like something in the cheap , moderate , or expensive price range?', 'la mimosa serves mediterranean food in the expensive price range', 'Sure , la mimosa is on Thompsons Lane Fen Ditton', 'The phone number of la mimosa is 01223 362525 .']
+
+['noise', 'i dont care noise', 'venetian', 'mediterranean', 'expensive', 'whats the address', 'whats the phone number', 'thank you goodbye']
+
+[5 9 2 1 3 6 0 7]
+[1 1 1 1 1 5 4 3]
+5 1 9 1 2 1 1 1 3 1 6 5 0 4 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'Would you like something in the cheap , moderate , or expensive price range?', 'meze bar restaurant serves turkish food', 'meze bar restaurant is a great restaurant', 'Sure , meze bar restaurant is on 196 Mill Road City Centre']
+
+['im looking for a turkish restaurant', 'it doesnt matter', 'i dont care', 'address', 'address', 'thank you good bye']
+
+[5 9 3 7 7 0]
+[0 9 1 1 1 3]
+5 0 9 9 3 1 7 1 7 1 0 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What kind of food would you like?', 'the nirala is a nice place in the north of town and the prices are moderate', 'golden wok is a nice place in the north of town and the prices are moderate', 'The phone number of golden wok is 01223 350688 and its postcode is C.B 4, 3 H.L .', 'Sure , golden wok is on 191 Histon Road Chesterton']
+
+['im looking for a moderately priced restaurant in the north part of town', 'it doesnt matter', 'is there anything else', 'address phone number and post code', 'address', 'thank you good bye']
+
+[5 2 8 8 7 0]
+[6 9 1 4 1 3]
+5 6 2 9 8 1 8 4 7 1 0 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What kind of food would you like?', 'la margherita is a nice place in the west of town and the prices are cheap', 'The phone number of la margherita is 01223 315232 and it is on 15 Magdalene Street City Centre .']
+
+['im looking for a cheap restaurant in the west part of town', 'it doesnt matter', 'i need the address and phone number', 'thank you good bye']
+
+[5 2 8 7]
+[6 9 4 3]
+5 6 2 9 8 4 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What kind of food would you like?', 'thanh binh is a nice place in the west of town and the prices are cheap', 'The phone number of thanh binh is 01223 362456 .']
+
+['im looking for a cheap restaurant in the west part of', 'doesnt matter', 'phone number', 'thank you good bye']
+
+[5 2 8 7]
+[6 9 4 3]
+5 6 2 9 8 4 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What kind of food would you like?', 'Would you like something in the cheap , moderate , or expensive price range?', 'Let me confirm , You are looking for a restaurant and you dont care about the price range right?', 'the good luck chinese food takeaway is a nice place in the south of town serving tasty chinese food', 'The phone number of the good luck chinese food takeaway is 01223 244149 .', 'the good luck chinese food takeaway is in the expensive price range']
+
+['im looking for a restaurant in the south part of town serving', 'chinese food', 'it doesnt matter', 'right', 'phone number and price range', 'price range', 'thank you goodbye']
+
+[5 2 3 6 8 7 6]
+[6 1 9 1 4 1 3]
+5 6 2 1 3 9 6 1 8 4 7 1 6 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What kind of food would you like?', 'royal spice is a nice place in the north of town and the prices are cheap', 'da vinci pizzeria is a nice place in the north of town and the prices are cheap', 'The phone number of da vinci pizzeria is 01223 351707 .', 'Sure , da vinci pizzeria is on 20 Milton Road Chesterton', 'da vinci pizzeria serves italian food']
+
+['looking for a cheap restaurant in the north part of town', 'it doesnt matter', 'is there anything else', 'address phone number and type of food', 'address and type of food', 'type of food', 'thank you good bye']
+
+[5 2 8 8 7 0 7]
+[6 9 1 4 1 1 3]
+5 6 2 9 8 1 8 4 7 1 0 1 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'Ok , a restaurant in any part of town is that right?', 'What kind of food would you like?', 'What kind of food would you like?', 'rajmahal is a nice place in the east of town and the prices are moderate', 'pizza hut fen ditton is a nice place in the east of town and the prices are moderate', 'The phone number of pizza hut fen ditton is 01223 323737 and its postcode is C.B 5, 8 W.R .']
+
+['noise', 'im looking', 'im looking', 'looking for a moderately priced restaurant in the east part of town', 'it doesnt matter', 'is there anything else', 'phone number', 'thank you good bye']
+
+[5 9 7 2 2 8 8 7]
+[1 1 1 6 9 1 4 3]
+5 1 9 1 7 1 2 6 2 9 8 1 8 4 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'What kind of food would you like?', "I'm sorry but there is no restaurant serving belgian food", "I'm sorry but there is no restaurant serving belgian food", 'tandoori palace is a nice place in the north of town', 'Sure , tandoori palace is on 68 Histon Road Chesterton', 'The phone number of tandoori palace is 01223 506055 .']
+
+['yes good afternoon im looking for a restaurant in the north', 'the north part of town', 'belgium', 'is there an asian oriental restaurant in the north part of town', 'how about asian food', 'can i have the address and phone number', 'and phone number please', 'thank you good bye']
+
+[5 9 2 1 1 8 0 7]
+[0 6 1 6 7 2 4 3]
+5 0 9 6 2 1 1 6 1 7 8 2 0 4 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', "I'm sorry but there is no restaurant serving english food", "I'm sorry but there is no restaurant serving english food", 'backstreet bistro is in the expensive price range', 'Sure , backstreet bistro is on 2 Sturton Street City Centre']
+
+['im looking for an expensive restaurant that serves english food', 'what about mediterranean food', 'what about mediterranean food', 'whats the address and phone number', 'thank you good bye']
+
+[5 1 1 6 0]
+[0 7 7 4 3]
+5 0 1 7 1 7 6 4 0 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'What kind of food would you like?', 'ali baba serves lebanese food in the moderate price range', 'The phone number of ali baba is 01462 432565 and it is on 59 Hills Road City Centre .', "Sorry, I can't hear you"]
+
+['im looking for a moderately priced restaurant that serves', 'any part', 'lebanese food', 'what is the address and phone number', 'cough', 'thank you good bye']
+
+[5 9 2 6 7 7]
+[0 1 1 4 1 3]
+5 0 9 1 2 1 6 4 7 1 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'What kind of food would you like?', "I'm sorry but there is no restaurant serving moderate mexican food", 'the varsity restaurant serves international food in the moderate price range', 'Sure , the varsity restaurant is on 35 Saint Andrews Street City Centre', 'The post code of the varsity restaurant is C.B 2, 3 A.R']
+
+['i need to find a moderately priced restaurant', 'dont care', 'mexican food', 'international type food', 'address', 'post code', 'thank you good bye']
+
+[5 9 2 1 6 0 7]
+[8 1 1 1 1 1 3]
+5 8 9 1 2 1 1 1 6 1 0 1 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'kohinoor is in the cheap price range', 'What kind of food would you like?', 'thanh binh is a nice place in the west of town and the prices are cheap', 'Sure , thanh binh is on 17 Magdalene Street City Centre']
+
+['cheap restaurant', 'west part of town', 'dont care', 'address', 'thank you good bye']
+
+[5 6 2 8 0]
+[8 6 1 1 3]
+5 8 6 6 2 1 8 1 0 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'Did you say you are looking for a restaurant in the west of town?', 'What kind of food would you like?', 'saint johns chop house is a nice place in the west of town and the prices are moderate', 'prezzo is a nice place in the west of town and the prices are moderate', "Sorry, I can't hear you", 'saint johns chop house is a nice place in the west of town and the prices are moderate', 'prezzo is a nice place in the west of town and the prices are moderate', 'Sure , prezzo is on 21 - 24 Northampton Road', 'The phone number of prezzo is 01799 521260 .']
+
+['im looking for a moderately priced restaurant', 'west', 'yes', 'it doesnt matter', 'um is there anything else', 'ok how about a restaurant and phone number', 'thats fine', 'i want to know', 'i want to know the address and the', 'whats the phone number', 'great thank you goodbye']
+
+[5 9 9 2 8 8 7 8 8 0 7]
+[0 1 1 9 1 4 1 1 5 4 3]
+5 0 9 1 9 1 2 9 8 1 8 4 7 1 8 1 8 5 0 4 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'What part of town do you have in mind?', 'What kind of food would you like?', "I'm sorry but there is no restaurant serving bistro food", 'You are looking for a asian oriental restaurant right?', 'Would you like something in the cheap , moderate , or expensive price range?', 'dojo noodle bar serves asian oriental food', 'Sure , dojo noodle bar is on 40210 Millers Yard City Centre', 'The post code of dojo noodle bar is C.B 2, 1 R.Q']
+
+['noise', 'im looking for a restaurant that serves', 'i dont care', 'bistro food', 'how about asian oriental food', 'yes', 'um i dont care about the price', 'may i have the address and post code', 'what is their post code', 'great thank you good bye']
+
+[5 9 9 2 1 7 3 7 0 7]
+[1 0 1 1 7 1 5 2 5 3]
+5 1 9 0 9 1 2 1 1 7 7 1 3 5 7 2 0 5 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'What part of town do you have in mind?', 'What kind of food would you like?', 'da vinci pizzeria is a nice place in the north of town and the prices are cheap', 'Sure , da vinci pizzeria is on 20 Milton Road Chesterton', 'The post code of da vinci pizzeria is C.B 4, 1 J.Y']
+
+['i want to find a cheap restaurant', 'in the north part', 'in the north part of town', 'i dont care', 'okay might i have the address', 'how about the post code', 'thank you good bye']
+
+[5 9 9 2 8 0 7]
+[8 6 6 1 2 7 3]
+5 8 9 6 9 6 2 1 8 2 0 7 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'What kind of food would you like?', 'Sorry would you like vietnamese food or you dont care', 'Sorry would you like vietnamese food or you dont care', 'Sorry would you like vietnamese food or you dont care', 'Would you like something in the cheap , moderate , or expensive price range?', 'Can I help you with anything else?', 'Can I help you with anything else?', 'restaurant two two serves french food', 'Sure , restaurant two two is on 22 Chesterton Road Chesterton', 'The phone number of restaurant two two is 01223 351880 .']
+
+['noise i want to find a restaurant that ser', 'umh i dont care noise', 'eritrean food noise', 'noise no', 'eritrean food', 'i dont want vietnamese food', 'noise i dont care about the price range', 'breath noise how about french food', 'noise i want to find a restaurant that serve french food', 'noise may i have its address', 'noise breath whats their phone number', 'noise thank you goodbye']
+
+[5 9 2 2 2 2 3 7 7 7 0 7]
+[8 1 1 1 1 1 5 7 8 1 4 3]
+5 8 9 1 2 1 2 1 2 1 2 1 3 5 7 7 7 8 7 1 0 4 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'pipasha restaurant is a nice place in the east of town', 'pipasha restaurant is in the expensive price range', 'What kind of food would you like?', 'rajmahal is a nice place in the east of town and the prices are moderate', 'Sure , rajmahal is on 7 Barnwell Road Fen Ditton', 'The post code of rajmahal is C.B 5, 8 R.G']
+
+['hi im looking for a restaurant in the east art of town', 'and what is the price range', 'okay im looking for moderate price range', 'i dont know', 'okay can i have the address', 'and can i have the post code', 'okay thank you good bye']
+
+[5 8 6 2 8 0 7]
+[6 5 0 1 2 2 3]
+5 6 8 5 6 0 2 1 8 2 0 2 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'Sorry would you like something in the east or in the south', 'What kind of food would you like?', 'You are looking for a australasian restaurant right?', "I'm sorry but there is no restaurant serving australasian food", "I'm sorry but there is no restaurant serving australasian food", 'yu garden is a nice place in the east of town serving tasty chinese food', 'The phone number of yu garden is 01223 248882 and it is on 529 Newmarket Road Fen Ditton .', 'The post code of yu garden is C.B 5, 8 P.A', 'Sure , yu garden is on 529 Newmarket Road Fen Ditton', 'The phone number of yu garden is 01223 248882 .']
+
+['im looking for restaurants in the east part of town', 'east', 'west', 'noise', 'how about chinese', 'chinese', 'thank you can i have the address phone number', 'and the postal code', 'what about the address', 'can you give me the phone number', 'thank you good bye']
+
+[5 3 2 7 1 1 8 7 7 0 7]
+[6 1 1 1 7 1 2 5 5 4 3]
+5 6 3 1 2 1 7 1 1 7 1 1 8 2 7 5 7 5 0 4 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'What kind of food would you like?', 'royal standard is a nice place in the east of town and the prices are expensive', 'grafton hotel restaurant is a nice place in the east of town and the prices are expensive', 'grafton hotel restaurant is a great restaurant', 'Sure , grafton hotel restaurant is on Grafton Hotel 619 Newmarket Road Fen Ditton', 'The phone number of grafton hotel restaurant is 01223 241387 .', 'grafton hotel restaurant serves british food', 'grafton hotel restaurant is a great restaurant']
+
+['expensive', 'east', 'any', 'food', 'type of food', 'address', 'phone number', 'type of food served', 'thank you', 'good bye']
+
+[5 9 2 8 8 7 0 7 7 7]
+[1 1 1 1 1 1 4 1 3 3]
+5 1 9 1 2 1 8 1 8 1 7 1 0 4 7 1 7 3 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'What kind of food would you like?', 'restaurant alimentum is a nice place in the south of town and the prices are moderate', 'pizza hut cherry hinton is a nice place in the south of town and the prices are moderate', 'Sure , pizza hut cherry hinton is on G4 Cambridge Leisure Park Clifton Way Cherry Hinton']
+
+['im looking for a moderate priced restaurant in the south part', 'the south part', 'i dont care', 'is there anything else', 'can i have the address', 'thank you good bye']
+
+[5 9 2 8 8 0]
+[0 5 1 1 2 3]
+5 0 9 5 2 1 8 1 8 2 0 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', "I'm sorry but there is no restaurant serving venetian food", "I'm sorry but there is no restaurant serving venetian food", "I'm sorry but there is no restaurant serving venetian food", 'You are looking for a venetian restaurant right?', 'Let me confirm , You are looking for a restaurant in the expensive price range right?', "I'm sorry but there is no restaurant serving venetian food", 'bangkok city serves thai food in the expensive price range', 'Sure , bangkok city is on 24 Green Street City Centre', 'The phone number of bangkok city is 01223 354382 .']
+
+['im looking for an expensive restaurant with venetian food', 'is there one with thai food', 'how about one with thai food', 'is there a restaurant serving thai food', 'no', 'yes', 'im looking for a restaurant with thai type', 'can i have the address', 'can i have the phone number', 'thank you good bye']
+
+[5 1 1 1 7 6 1 6 0 7]
+[0 1 7 8 1 1 0 2 2 3]
+5 0 1 1 1 7 1 8 7 1 6 1 1 0 6 2 0 2 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What kind of food would you like?', 'yu garden is a nice place in the east of town and the prices are expensive', 'The phone number of yu garden is 01223 248882 .', 'yu garden serves chinese food']
+
+['im looking for an expensive restaurant in the east part of town', 'i dont care', 'whats the phone number', 'what type of food does it serve', 'thank you good bye']
+
+[5 2 8 7 7]
+[6 1 4 1 3]
+5 6 2 1 8 4 7 1 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'Did you say you are looking for a restaurant in the west of town?', 'sala thong is a nice place in the west of town', "I'm sorry but there is no restaurant serving corsica food", 'Would you like something in the cheap , moderate , or expensive price range?', 'saint johns chop house is a great restaurant serving moderate british food in the west of town .', 'saint johns chop house is a great restaurant', 'Sure , saint johns chop house is on 21 - 24 Northampton Street', 'The phone number of saint johns chop house is 01223 353110 .']
+
+['west', 'yes', 'corsica food', 'british', 'moderate', 'address', 'address', 'phone number', 'thank you good bye']
+
+[5 9 8 1 3 8 7 0 7]
+[1 1 1 1 1 1 1 4 3]
+5 1 9 1 8 1 1 1 3 1 8 1 7 1 0 4 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What kind of food would you like?', 'the good luck chinese food takeaway is a nice place in the south of town and the prices are expensive', 'Sure , the good luck chinese food takeaway is on 82 Cherry Hinton Road Cherry Hinton', 'The phone number of the good luck chinese food takeaway is 01223 244149 .']
+
+['south', 'expensive', 'address', 'phone number', 'thank you good bye']
+
+[5 2 8 0 7]
+[1 1 1 4 3]
+5 1 2 1 8 1 0 4 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'Would you like something in the cheap , moderate , or expensive price range?', 'the missing sock serves international food', 'Sure , the missing sock is on Finders Corner Newmarket Road']
+
+['international food', 'center', 'expensive', 'address', 'post code']
+
+[5 9 3 7 0]
+[1 1 1 1 1]
+5 1 9 1 3 1 7 1 0 1
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'chiquito restaurant bar serves mexican food', 'chiquito restaurant bar is a great restaurant', 'The phone number of chiquito restaurant bar is 01223 400170 .', 'The post code of chiquito restaurant bar is C.B 1, 7 D.Y']
+
+['mexican', 'phone number', 'phone number', 'post code', 'thank you good bye']
+
+[5 7 7 7 7]
+[1 4 4 1 3]
+5 1 7 4 7 4 7 1 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What kind of food would you like?', "I'm sorry but there is no chinese restaurant in the west of town", 'saint johns chop house is a great restaurant serving moderate british food in the west of town .', 'Sure , saint johns chop house is on 21 - 24 Northampton Street', 'The phone number of saint johns chop house is 01223 353110 .']
+
+['im looking for a moderately priced restaurant in the west part', 'chinese', 'british', 'great whats the address and phone number', 'whats the phone number', 'thank you good bye']
+
+[5 2 1 8 0 7]
+[0 1 1 4 4 3]
+5 0 2 1 1 1 8 4 0 4 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', "I'm sorry but there is no restaurant serving crossover food", "I'm sorry but there is no restaurant serving crossover food", 'hakka is a nice place in the north of town serving tasty chinese food', 'The phone number of hakka is 01223 568988 .']
+
+['im looking for', 'crossover food in the north part of town', 'what about chinese food', 'what about chinese food', 'whats the phone number', 'thank you good bye']
+
+[5 9 1 1 8 7]
+[0 6 7 7 4 3]
+5 0 9 6 1 7 1 7 8 4 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'What part of town do you have in mind?', 'What kind of food would you like?', 'What kind of food would you like?', 'loch fyne serves seafood food', 'loch fyne is a great restaurant', 'Sure , loch fyne is on The Little Rose 37 Trumpington Street']
+
+['chinese food', 'chinese food im looking for sea food', 'i dont care', 'sea food', 'sea food', 'sea food', 'whats the address', 'thank you good bye']
+
+[5 9 9 2 2 7 7 0]
+[1 0 1 1 1 1 5 3]
+5 1 9 0 9 1 2 1 2 1 7 1 7 5 0 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'la raza serves spanish food in the cheap price range', 'Sure , la raza is on 4 - 6 Rose Crescent', 'The phone number of la raza is 01223 464550 .', 'The post code of la raza is C.B 2, 3 L.L']
+
+['im looking for a cheap spanish restaurant', 'the adra', 'whats the phone number', 'the postcode', 'thank you goodbye']
+
+[5 6 0 7 7]
+[0 5 4 5 3]
+5 0 6 5 0 4 7 5 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'Would you like something in the cheap , moderate , or expensive price range?', "I'm sorry but there is no restaurant serving cheap european food", "I'm sorry but there is no restaurant serving cheap european food", 'nandos city centre serves portuguese food in the cheap price range', 'Sure , nandos city centre is on 33-34 Saint Andrews Street']
+
+['im looking for european food', 'i dont care', 'cheap', 'what about portuguese food', 'portuguese food', 'whats the address', 'thank you good bye']
+
+[5 9 3 1 1 6 0]
+[0 1 1 7 1 5 3]
+5 0 9 1 3 1 1 7 1 1 6 5 0 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', "Sorry, I can't hear you", "Sorry, I can't hear you", 'yippee noodle bar serves asian oriental food', 'The phone number of yippee noodle bar is 01223 518111 .', 'yippee noodle bar is a nice place in the centre of town']
+
+['can i find a expensive restaurant that serves welsh food', 'how about asian oriental', 'asian oriental food', 'can i get the phone number and area', 'what is the area', 'thank you good bye']
+
+[5 7 7 7 7 8]
+[8 7 1 2 5 3]
+5 8 7 7 7 1 7 2 7 5 8 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', "I'm sorry but there is no vietnamese restaurant in the north of town", 'Did you say you are looking for a restaurant in the west of town?', 'You are looking for a vietnamese restaurant right?', 'thanh binh is a nice place in the west of town serving tasty vietnamese food', 'The phone number of thanh binh is 01223 362456 .']
+
+['im looking for vietnamese food in the north part of town', 'how about the west area', 'yes', 'yes', 'can i have the phone number please', 'thank you good bye']
+
+[5 1 9 7 8 7]
+[6 7 1 1 2 3]
+5 6 1 7 9 1 7 1 8 2 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What kind of food would you like?', 'frankie and bennys is a nice place in the south of town and the prices are expensive', 'chiquito restaurant bar is a nice place in the south of town and the prices are expensive', 'The phone number of chiquito restaurant bar is 01223 400170 .', 'The post code of chiquito restaurant bar is C.B 1, 7 D.Y']
+
+['im looking for an expensive restaurant in the east part of town', 'any food', 'anything house', 'may i have the phone number and post code', 'can i have the post code', 'thank you good bye']
+
+[5 2 8 8 7 7]
+[6 1 1 2 2 3]
+5 6 2 1 8 1 8 2 7 2 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'What kind of food would you like?', "I'm sorry but there is no european restaurant in the east of town", "I'm sorry but there is no european restaurant in the east of town", 'pipasha restaurant is a nice place in the east of town', 'The phone number of pipasha restaurant is 01223 577786 and it is on Newmarket Road Fen Ditton .']
+
+['im looking for unintelligible food', 'in the east part of town', 'unintelligible', 'unintelligible', 'how about indian', 'can i have the address and phone number', 'thank you good bye']
+
+[5 9 2 1 1 8 7]
+[0 6 1 1 7 2 3]
+5 0 9 6 2 1 1 1 1 7 8 2 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'What kind of food would you like?', 'What kind of food would you like?', 'royal spice is a nice place in the north of town and the prices are cheap', 'da vinci pizzeria is a nice place in the north of town and the prices are cheap', 'Sure , da vinci pizzeria is on 20 Milton Road Chesterton', 'The phone number of da vinci pizzeria is 01223 351707 .']
+
+['sil', 'the north', 'something cheap', 'uh i dont mind', 'okay is there another option', 'okay what is the address', 'whats the phone number', 'okay thank you good bye']
+
+[5 9 2 2 8 8 0 7]
+[1 5 1 1 1 5 4 3]
+5 1 9 5 2 1 2 1 8 1 8 5 0 4 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', "I'm sorry but there is no restaurant serving basque food", "I'm sorry but there is no restaurant serving basque food", 'You are looking for a indian restaurant right?', 'What part of town do you have in mind?', 'maharajah tandoori restaurant is a nice place in the west of town serving tasty indian food', 'The phone number of maharajah tandoori restaurant is 01223 358399 .', 'Sure , maharajah tandoori restaurant is on 41518 Castle Street City Centre']
+
+['yea im looking for a restaurant that serves basque food', 'what about indian', 'how about indian food', 'correct', 'the west', 'okay whats the phone number', 'whats the address', 'thank you good bye']
+
+[5 1 1 7 9 8 7 0]
+[0 7 7 1 5 4 5 3]
+5 0 1 7 1 7 7 1 9 5 8 4 7 5 0 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'What kind of food would you like?', 'rajmahal is a nice place in the east of town and the prices are moderate', 'curry prince is a nice place in the east of town and the prices are moderate', 'The phone number of curry prince is 01223 566388 .', 'curry prince serves indian food']
+
+['moderately priced restaurant in the east', 'east', 'i dont care', 'is there anything else', 'whats the phone number there', 'and what type of food is that', 'okay thank you good bye']
+
+[5 9 2 8 8 7 7]
+[8 1 1 1 4 1 3]
+5 8 9 1 2 1 8 1 8 4 7 1 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What kind of food would you like?', 'the lucky star is a nice place in the south of town and the prices are cheap', 'Sure , the lucky star is on Cambridge Leisure Park Clifton Way Cherry Hinton', 'The phone number of the lucky star is 01223 244277 .']
+
+['im looking for a cheap restaurant in the south part of town', 'i dont care', 'what is the address', 'whats the phone number', 'thank you good bye']
+
+[5 2 8 0 7]
+[6 1 5 4 3]
+5 6 2 1 8 5 0 4 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What kind of food would you like?', 'pizza hut cherry hinton is a nice place in the south of town and the prices are moderate', 'Sure , pizza hut cherry hinton is on G4 Cambridge Leisure Park Clifton Way Cherry Hinton']
+
+['im looking for a moderately priced restaurant in the south part of town', 'i dont care', 'what is the address', 'thank you good bye']
+
+[5 2 8 0]
+[6 1 5 3]
+5 6 2 1 8 5 0 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'the missing sock is a nice place in the east of town and the prices are cheap', 'the missing sock serves international food', 'Sure , the missing sock is on Finders Corner Newmarket Road']
+
+['sil', 'im looking for a cheap restaurant in the east part of town', 'what type of food', 'what is the address', 'thank you good bye']
+
+[5 9 8 7 0]
+[1 6 1 5 3]
+5 1 9 6 8 1 7 5 0 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'Would you like something in the cheap , moderate , or expensive price range?', 'la tasca serves spanish food', 'la raza serves spanish food', 'la raza is a great restaurant', 'Sure , la raza is on 4 - 6 Rose Crescent', 'la raza is a great restaurant']
+
+['spanish restaurant', 'i dont care', 'i dont care', 'is there anything else', 'what is the address', 'what is the address', 'uh', 'thank you good bye']
+
+[5 9 3 7 7 7 0 7]
+[8 1 1 1 5 5 1 3]
+5 8 9 1 3 1 7 1 7 5 7 5 0 1 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What kind of food would you like?', 'nandos is a nice place in the south of town and the prices are cheap', 'the lucky star is a nice place in the south of town and the prices are cheap', 'The phone number of the lucky star is 01223 244277 .', 'Sorry but there is no other restaurant in the cheap price range and the south of town', 'the lucky star is a great restaurant', 'Sure , the lucky star is on Cambridge Leisure Park Clifton Way Cherry Hinton']
+
+['im looking for a cheap restaurant in the south of town', 'i dont care', 'is there anything else', 'okay whats the phone number', 'and', 'the address', 'what is the address', 'thank you good bye']
+
+[5 2 8 8 7 4 7 0]
+[6 1 1 4 1 5 5 3]
+5 6 2 1 8 1 8 4 7 1 4 5 7 5 0 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'What kind of food would you like?', 'meghna is a nice place in the north of town and the prices are moderate', 'Sure , meghna is on 205 Victoria Road Chesterton', 'The phone number of meghna is 01223 727410 .', 'meghna is a great restaurant', 'meghna is a great restaurant']
+
+['i want to find a moderately priced restaurant', 'north', 'uh no preference', 'whats the address', 'the phone number', 'and what type of food', 'thank you', 'thank you good bye']
+
+[5 9 2 8 0 7 7 7]
+[8 1 1 5 4 1 3 3]
+5 8 9 1 2 1 8 5 0 4 7 1 7 3 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'What kind of food would you like?', 'You are looking for a restaurant serving any kind of food right?', 'frankie and bennys is a nice place in the south of town and the prices are expensive', 'the good luck chinese food takeaway is a nice place in the south of town and the prices are expensive', 'the good luck chinese food takeaway is a great restaurant', 'Sure , the good luck chinese food takeaway is on 82 Cherry Hinton Road Cherry Hinton']
+
+['expensive expensive', 'south', 'any', 'yes', 'is there anything else', 'whats the address', 'what is their address', 'thank you good bye']
+
+[5 9 2 2 8 8 7 0]
+[1 1 1 1 1 5 5 3]
+5 1 9 1 2 1 2 1 8 1 8 5 7 5 0 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'What part of town do you have in mind?', 'thanh binh is in the cheap price range', 'thanh binh is in the cheap price range', "I'm sorry but there is no restaurant serving cheap seafood food", 'nandos city centre serves portuguese food in the cheap price range', 'Sure , nandos city centre is on 33-34 Saint Andrews Street']
+
+['noise', 'cheap restaurant', 'cheap restaurant', 'sea food', 'sea food', 'portuguese food', 'whats their address', 'thank you good bye']
+
+[5 9 9 6 6 1 6 0]
+[1 8 8 1 1 1 5 3]
+5 1 9 8 9 8 6 1 6 1 1 1 6 5 0 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'What part of town do you have in mind?', 'Sorry would you like something in the south or in the north', 'What kind of food would you like?', 'Would you like something in the cheap , moderate , or expensive price range?', 'the good luck chinese food takeaway is a nice place in the south of town and the prices are expensive', 'peking restaurant is a nice place in the south of town and the prices are expensive', 'Sure , peking restaurant is on 10 Homerton Street City Centre']
+
+['expensive', 'south', 'south', 'south', 'any', 'expensive', 'is there anything else', 'whats the address', 'thank you good bye']
+
+[5 9 9 3 2 3 8 8 0]
+[1 1 1 1 1 1 1 5 3]
+5 1 9 1 9 1 3 1 2 1 3 1 8 1 8 5 0 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', "I'm sorry but there is no restaurant serving cheap japanese food", 'You are looking for a japanese restaurant right?', "I'm sorry but there is no restaurant serving cheap japanese food", "I'm sorry but there is no restaurant serving cheap japanese food", 'royal spice is in the cheap price range', 'Sure , royal spice is on Victoria Avenue Chesterton', 'la raza is in the cheap price range', 'la raza is a great restaurant']
+
+['noise', 'im looking for a cheap restaurant it should serve japanese food', 'i want spanish food', 'no', 'what about spanish food', 'how about spanish food', 'whats the address', 'whats the signature dish', 'what is the signature dish', 'thank you good bye']
+
+[5 9 1 7 1 1 6 0 6 7]
+[1 0 1 1 7 7 5 5 5 3]
+5 1 9 0 1 1 7 1 1 7 1 7 6 5 0 5 6 5 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What kind of food would you like?', 'saint johns chop house is a nice place in the west of town and the prices are moderate', 'prezzo is a nice place in the west of town and the prices are moderate', 'Sure , prezzo is on 21 - 24 Northampton Road', 'prezzo is a great restaurant', 'The post code of prezzo is C.B 3, 0 A.D']
+
+['im looking for a moderately priced restaurant and it should be in the west part of town', 'any', 'anything else', 'whats the address', 'whats the phone number', 'whats the post code', 'thank you good bye']
+
+[5 2 8 8 0 7 7]
+[6 1 1 5 4 5 3]
+5 6 2 1 8 1 8 5 0 4 7 5 7 3
+
+
+******************************
+['Hello , welcome to the Cambridge restaurant system? You can ask for restaurants by area , price range or food type . How may I help you?', 'What part of town do you have in mind?', 'Sorry would you like something in the west or in the south', 'What kind of food would you like?', "I'm sorry but there is no restaurant serving world food", 'golden wok is a nice place in the north of town serving tasty chinese food', 'The phone number of golden wok is 01223 350688 .']
+
+['i am looking fora restaurant that should serve', 'north town', 'no north part of town', 'world food', 'chinese food', 'whats the phone number', 'thank you good bye']
+
+[5 9 3 2 1 8 7]
+[8 1 6 1 1 4 3]
+5 8 9 1 3 6 2 1 1 1 8 4 7 3
