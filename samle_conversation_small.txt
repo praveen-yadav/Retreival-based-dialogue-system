@@ -1,0 +1,50 @@
+System : Thank you for calling the Cambridge Information system. Your call will be recorded for research purposes. You may ask for information about a place to eat, such as a restaurant, a pub, or a cafe. How may I help you?
+User   : im looking for a turkish restaurant
+System : What kind of price range are you looking for? For example, cheap, or expensive.
+User   : i dont care
+System : Are you looking for somewhere near a particular venue? For example, Cherry Hinton Water Play, or Kettle's Yard.
+User   : no
+System : The Agora is a great restaurant and it serves turkish food.
+User   : no
+System : The Agora, which serves turkish food, is an outstanding restaurant.
+User   : whats the address
+System : The Agora is on 4 King's Parade.
+User   : whats the address
+System : The Agora is located on 4 King's Parade.
+User   : whats the price
+System : The Agora is an outstanding venue. The price for main courses ranges from 9 pounds to 11 pounds 50 and the price for a cappuccino is 2 pounds 25.
+User   : the price
+System : The Agora is a great venue. The price for main courses ranges from 9 pounds to 11 pounds 50 and the price for a cappuccino is 2 pounds 25.
+User   : thanks bye
+
+---------------------
+
+System : Thank you for calling the Cambridge Information system. Your call will be recorded for research purposes. You may ask for information about a place to eat, such as a restaurant, a pub, or a cafe. How may I help you?
+User   : sil
+System : What kind of venue are you looking for? For example, a cafe, or a pub.
+User   : restaurant cheap restaurant in the cherry hinton area
+System : Are you looking for somewhere near a particular venue? For example, Cambridge Contemporary Art, the Regency Gallery, or the Scott Polar Museum.
+User   : sil
+System : Spice Merchants is a great restaurant and it's in the Cherry Hinton part of town. It's in the cheap price range.
+User   : cheap restaurant in the cherry hinton area
+System : Spice Merchants is a great restaurant, it's in the Cherry Hinton part of town and it's in the cheap price range.
+User   : breathing address
+System : Spice Merchants is located on 60 Trumpington Road.
+User   : breathing sil
+System : Spice Merchants is a great restaurant.
+User   : address
+System : Spice Merchants is located on 60 Trumpington Road.
+User   : post code
+System : Spice Merchants is in the area with the postcode CB2 8EX.
+User   : sil
+System : Spice Merchants is an outstanding restaurant.
+User   : post code
+System : Spice Merchants is in the area with the postcode CB2 8EX.
+User   : breathing sil
+System : Spice Merchants is a great restaurant.
+User   : address and post code for that restaurant
+System : Spice Merchants is on 60 Trumpington Road and it's in the area with the postcode CB2 8EX.
+User   : thank you good bye
+
+---------------------
+
